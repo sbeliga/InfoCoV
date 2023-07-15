@@ -1,0 +1,95 @@
+MAIN RUW FILTERING:
+
+Ukraj.
+Rusij.
+Vladimir.
+Putin.
+Volodimir.
+Zelenski.
+
+
+ADDITIONAL FILTERING - VICTIMS:
+
+pokolj.
+poginu.
+.ranje.
+ozljeđ.
+gin.
+wagne.
+civil.
+gener.
+žrt.
+
+ADDITIONAL FILTERING - LOCATIONS:
+
+Bakh.
+Zaporiz.
+Khers.
+Kyiv.
+Khark.
+Lviv.
+Odesa.
+Crimea.
+Mariupol.
+Donetsk.
+Luhansk.
+Černiveck.
+Chernivtsi.
+Olimpii.
+Moskv.
+Kremlj.
+
+ADDITIONAL FILTERING - FAMOUS PERSONALITIES:
+
+Andrej* Mordvičev.
+Magomed* Tušaev.
+Valerij* Gerasimov.
+Andrej* Kolesnikov.
+Andrej* Suhovetskij.
+Oleg* Mitjajev.
+Vladislav* Jeršov.
+Jurij* Medvedev.
+Vladimir* Putin.
+Volodimir* Zelensk.
+Oleksij* Jurijevič* Reznikov.
+Hanna* Maliar.
+Valerij* Fedorovič* Zalužni.
+Viktor* Muzenko.
+Petro* Porošenko.
+Jevhen* Moisiuk.
+Serhij* Šaptala.
+Oleksij* Nežpapa.
+Mikola* Oleščuk.
+
+ADDITIONAL FILTERING - HUMANITARIAN:
+
+donator.
+prehrambeni.
+namirnic.
+potrepštin.
+higijensk.
+donira.
+prikuplja.
+boravi.
+otprem.
+palet.
+humanitar.
+apel.
+akcija.
+izbjeglic.
+prihvat.
+cent.
+Crveni križ.
+
+ADDITIONAL FILTERING - ECONOMY: 
+
+poskup.
+proizvod.
+rast.
+posto.
+naprema.
+stop.
+udar.
+glob* trži.
+razi.
+kana.

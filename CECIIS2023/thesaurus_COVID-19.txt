@@ -1,0 +1,59 @@
+MAIN COVID-19 FILTERING:
+
+covid.
+koronavirus.
+koron.
+samoizolacij.
+pandemij.
+COVID-19.
+Pfizer.
+BionTech.
+Sputnik V.
+AstraZeneca.
+
+ADDITIONAL FILTERING - VACINNES:
+
+cjepiv.
+Pfizer.
+BionTech.
+Sputnik V.
+AstraZenec.
+Modern.
+Johnson & Johnson.
+simptom. cijepiv.
+cijepljenj.
+treć* doz.
+
+ADDITIONAL FILTERING - MEASURES:
+
+nov* mjer.
+epidemiološk* mjer.
+covid potvrd.
+stožer* civiln* zaštit.
+mask.
+razma.
+preporu.
+okupljanj.
+
+ADDITIONAL FILTERING - INFECTED:
+
+respirator.
+preminu.
+nov* sluč.
+oporavi.
+aktivn.
+slučaj.
+samoizolacij.
+
+ADDITIONAL FILTERING -  FAMOUS PERSONALITIES:
+
+Božinović.
+Capak
+Capk.
+Beroš.
+Markotić
+
+
+
+
+
